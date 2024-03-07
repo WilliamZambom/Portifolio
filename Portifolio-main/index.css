@@ -1,8 +1,15 @@
 body {
     color: black;
-    background-color: rgb(252, 220, 179);
+    background-color: rgb(252, 238, 201);
+}
+ul{
+display: flex;
+justify-content: space-between;
+list-style-type: none;
 }
 
-img{ 
-    border-radius: 15%;
-}   
+header{
+font-style: italic;
+border-radius: 50;
+}
+
